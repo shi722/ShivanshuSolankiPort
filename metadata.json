@@ -1,0 +1,8 @@
+{
+  "name": "Shivanshu Solanki Portfolio",
+  "description": "Futuristic 3D animated personal portfolio website for Shivanshu Solanki, Computer Science Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
